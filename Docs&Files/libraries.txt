@@ -1,0 +1,14 @@
+เริ่มต้นใช้งาน
+1.เข้า Arduino IDE
+2.ไปที่ File
+3.ไปที่ Preferences
+4.ที่ช่อง Additional Boards Manager URLs: 
+เปลี่ยนเป็น http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Libraries
+1. EEPROM
+2. ESP8266
+3. ESP8266WebServer
+4. ESP8266Audio
+5. ESP8266WiFi
+6. Servo
